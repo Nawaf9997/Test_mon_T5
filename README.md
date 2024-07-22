@@ -1,6 +1,6 @@
 # Test_mon_T5
 
-Todey plan  
+Today plan  
 
 Pandas intro   
 
